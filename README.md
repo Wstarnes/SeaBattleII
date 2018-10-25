@@ -1,0 +1,2 @@
+# SeaBattleII
+Desktop Battleship game
