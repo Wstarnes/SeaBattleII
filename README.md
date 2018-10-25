@@ -1,11 +1,11 @@
 # SeaBattleII
 Desktop Battleship game
-##Background:
+## Background:
 The name of this project is Sea Battle II.  This was the second and final major project in my CS 232 class.  The teacher for this class was Jay Snellen and the class was taken in the fall of 2017.  The purpose of this project was to incorporate many of the higher-level concepts we had covered in the class up to that point.  Some of the concepts that we learned and were used in the making of this project were object oriented-programming, GUIs, abstract classes, and utilizing outside assets such as pictures and sounds to increase immersion into the game.  
-##Installation:
+## Installation:
 This project is programmed in the Java programming language.  Because of this, in order to use this program, you must have the proper Java facilities installed.  To install, click the download button and save the file to a location in your hard drive.  After this, either use an IDE compatible with Java or use the command prompt to navigate to the program and start it.  
-##Design:
+## Design:
 This program is a version of the popular game Battle Ship that uses oriented programming and outside assets.  Eighteen classes are used to implement this project.  One of these classes is the main class.  The main class is responsible for initializing the project, creating the GUIs, and creating the initial objects in the GUIs.  There is a class called AbstractView.  This class is responsible for creating the basic template of the GUIs.  This class is utilized by other classes such as ViewPrimaryGrid and ViewMainWindow.  Other classes are used to create the objects that are represented on the GUI.  Examples of these classes include Fleet, Grid and Ship.  These classes are responsible for representing all of the information associated with these objects.  They are also responsible for representing much of the logic in the game.  This game is to be played on a single computer by two people.  Upon completion of the first person’s turn, the GUI switches to the second person and removes the information about the first person’s grid.  This game is entirely GUI based and uses a point and click method and buttons to gather information from the user.  
-##Acknowledgement:
+## Acknowledgement:
 Skelton code was contributed in order to complete this project.  The skeleton code was provided by Mr. Jay Snellen, the instructor of this course.  The students were expected to fill in larger segments of many of the classes in order to get the program running.  
 
