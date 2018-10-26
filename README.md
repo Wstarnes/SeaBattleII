@@ -9,3 +9,5 @@ This program is a version of the popular game Battle Ship that uses oriented pro
 ## Acknowledgement:
 Skelton code was contributed in order to complete this project.  The skeleton code was provided by Mr. Jay Snellen, the instructor of this course.  The students were expected to fill in larger segments of many of the classes in order to get the program running.  
 
+![seabattleii](https://user-images.githubusercontent.com/35608966/47539919-50fa2700-d898-11e8-9b0a-29ac2974c922.PNG)
+![seabattleii 2](https://user-images.githubusercontent.com/35608966/47539924-55bedb00-d898-11e8-836b-ddb02ec4b53d.PNG)
